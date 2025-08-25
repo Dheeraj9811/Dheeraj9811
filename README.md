@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Dheeraj_Deshwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-deshwal/)](https://www.linkedin.com/in/dheeraj-deshwal/)
 [![Gmail Badge](https://img.shields.io/badge/-dheeraj20194@iiitd.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dheeraj20194@iiitd.ac.in)](mailto:dheeraj20194@iiitd.ac.in) 
 
-- 💼 RObotics Engineer at Araplraas and making things happen! 🚀🌟
+- 💼 Robotics Engineer at Araplraas and making things happen! 🚀🌟
 - Building intelligent systems with Computer Vision, ML & DL
 - 🎓 **IIITD**
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
